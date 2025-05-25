@@ -1,0 +1,7 @@
+cd your-clean-folder
+git init
+git add .
+git commit -m "First clean push of Stellar Reverb"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/stellar-reverb-site.git
+git push -u origin main
